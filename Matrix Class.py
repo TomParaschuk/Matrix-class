@@ -1,4 +1,4 @@
-class Matrix(object):
+class Matrix(object): 
 	
 	def init_empty(self, y, x):
 		self.m = y;
@@ -131,3 +131,6 @@ b = Matrix(3,3);
 print(a.add(b));
 b = a;
 b.display();
+
+
+c;
