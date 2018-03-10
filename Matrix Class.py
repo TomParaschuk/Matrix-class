@@ -131,6 +131,3 @@ b = Matrix(3,3);
 print(a.add(b));
 b = a;
 b.display();
-
-
-c;
